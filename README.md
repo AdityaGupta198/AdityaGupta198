@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adity Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate Web App & Network Penetration testing from India</h3>
 
 - 🌱 I’m currently learning **Web & Network Testing**
