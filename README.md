@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A passionate Web App & Network Penetration testing from India</h3>
+<h3 align="center">A Passionate Cyber Security Analyst From India</h3>
 
-- 🌱 I’m currently learning **Web & Network Testing**
+- 🌱 I’m currently learning **VAPT**
 
 - 📫 How to reach me **adityagupta20520@gmail.com**
 
