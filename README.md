@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">A Passionate Cyber Security Analyst From India</h3>
+<h3 align="center">A Pentester From India</h3>
 
-- 🌱 I’m currently learning **VAPT**
+- 🌱 I’m currently learning **Red_Teaming**
 
-- 📫 How to reach me **adityagupta20520@gmail.com**
+- 📫 How to reach me **aditya.gupta.sec@gmail.com**
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/1JbBaLwYtemugFi0NTRk7Do8Y5GWHeh59/view?usp=drive_link**
 
